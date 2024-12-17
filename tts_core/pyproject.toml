@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tts_core"
+version = "0.1.0"
+description = "Core TTS functionality with multilingual support."
+authors = [{name = "Jane Doe", email = "jane@example.com"}]
+license = "MIT"
+dependencies = ["numpy", "scipy"]

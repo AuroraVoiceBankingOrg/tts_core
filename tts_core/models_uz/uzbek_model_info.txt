@@ -1,0 +1,2 @@
+# uzbek_model_info.txt
+# Text notes or documentation.
